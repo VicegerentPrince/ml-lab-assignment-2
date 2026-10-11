@@ -14,7 +14,8 @@ Folder: `task2-heart-disease`
 
 | File | What it is |
 |:--|:--|
-| `Heart_Disease_Prediction.ipynb` | Notebook with all the steps |
+| `Heart Disease Prediction - FA24-BSE-085.ipynb` | Notebook with all the steps |
+| `Heart Disease Prediction - FA24-BSE-085.html` and `.pdf` | Saved copies of the notebook |
 | `processed.cleveland.data` | Dataset downloaded from UCI |
 | `sample-data.csv` | Pre-processed data made by the notebook |
 | `svc_trained_model.pkl` | Trained model |

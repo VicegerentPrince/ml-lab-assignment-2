@@ -1,7 +1,8 @@
-streamlit
+streamlit==1.64.0
 scikit-learn==1.7.2
-pandas
-numpy
+scipy==1.17.1
+pandas==2.3.3
+numpy==2.3.5
 matplotlib
 seaborn
 prettytable
